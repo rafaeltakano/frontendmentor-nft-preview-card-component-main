@@ -33,6 +33,10 @@ body {
   font-weight: var(--font-weight-300);
 }
 
+a {
+  text-decoration: none;
+}
+
 footer {
   margin-top: 5rem;
   text-align: center;
