@@ -12,8 +12,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [What I learned](#what-i-learned)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
@@ -22,7 +20,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 ### Links
 
-- Solution URL: [https://rafaeltakano.github.io/frontendmentor-qr-code-component-main/](https://rafaeltakano.github.io/frontendmentor-qr-code-component-main/)
+- Solution URL: [https://rafaeltakano.github.io/frontendmentor-qr-code-component-main/](https://rafaeltakano.github.io/frontendmentor-nft-preview-card-component-main/)
 
 ## My process
 
